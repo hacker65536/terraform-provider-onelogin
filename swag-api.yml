@@ -7860,6 +7860,8 @@ definitions:
           example: '2'
           type: string
         type: array
+      expression:
+        type: string
     type: object
   altErr:
     properties:
